@@ -1,0 +1,34 @@
+# Managed by modulesync - DO NOT EDIT
+
+__pycache__/
+.mypy_cache/
+*.lnk
+*.prj
+*.swp
+*.tmp
+.DS_Store
+db.sqlite3
+.coverage
+cover/*
+.env.local
+*.mo
+*.pyc
+*.pyo
+*.ipynb
+.ipynb_checkpoints
+.coverage
+.coverage.*
+media/
+media-public/
+########## OS FILES
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*~
+########## END OS FILES
+
+temp/*
+tmp/*
+subscriptions-env/*
+*.sqlite3
